@@ -29,7 +29,17 @@ Here are some of my key projects:
 
 3. **[Customer Segmentation & Insights](https://github.com/Indumathi-ds/Customer-Segmentation-Insights)**  
    - Segmented 1,000+ customers using K-Means & PCA  
-   - Generated actionable business insights for revenue growth  
+   - Generated actionable business insights for revenue growth
+  
+4. **[Loan Prediction Analysis](https://github.com/Indumathi-ds/Loan-Prediction-Analysis)**  
+- Predicted loan approval probability for applicants using machine learning techniques.
+- Performed **data cleaning, missing value imputation, and feature engineering** to improve model accuracy.
+- Built models using **Logistic Regression, Decision Trees, Random Forest**, and compared their performance.
+- Achieved **XX% accuracy** with the best performing model.
+- Visualized key insights using **Matplotlib, Seaborn**, and **Power BI dashboards** to support decision-making.
+- Identified **critical factors affecting loan approval**, such as income, credit history, and loan amount.
+
+    - [Download my Resume](https://github.com/Indumathi-ds/Resume/blob/main/INDU_CV.pdf)
 
 ---
 
