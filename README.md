@@ -35,7 +35,7 @@ Here are some of my key projects:
 - Predicted loan approval probability for applicants using machine learning techniques.
 - Performed **data cleaning, missing value imputation, and feature engineering** to improve model accuracy.
 - Built models using **Logistic Regression, Decision Trees, Random Forest**, and compared their performance.
-- Achieved **XX% accuracy** with the best performing model.
+- Achieved **80% accuracy** with the best performing model.
 - Visualized key insights using **Matplotlib, Seaborn**, and **Power BI dashboards** to support decision-making.
 - Identified **critical factors affecting loan approval**, such as income, credit history, and loan amount.
 
